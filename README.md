@@ -1,1 +1,1 @@
-Text from PC
+This is test readme file
